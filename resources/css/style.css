@@ -20,11 +20,11 @@
 .footer {
   background-color: dimgray;
   color: white;
-  font-size: 11px;
 }
 
 .footer p {
   text-align: left;
+  font-size: 11px;
 }
 
 a {
